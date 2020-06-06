@@ -1,0 +1,6 @@
+*
+!public
+!src
+!babel.config.js
+!nginx.conf
+!package.json
